@@ -1,4 +1,4 @@
-### ⚡ Fun Fact <div align="left"> <a href="https://readme-jokes.vercel.app">   <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" /> </a> </div>
+
 
 <h1 align="center">Hi 👋, I'm Om Kapadiya</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
