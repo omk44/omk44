@@ -1,9 +1,19 @@
 # Hi there, I'm Om Kapadiya 👋 
 ### Full Stack Developer | Cybersecurity Researcher | AI/ML Enthusiast
+---
 
+## 📈 Activity & Coding Streaks
+*These cards update in real-time as I push code and solve problems.*
+
+### GitHub Performance
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omk44&theme=tokyonight&hide_border=true)
+
+### LeetCode Statistics
+<!-- Note: Using a popular LeetCode stats API -->
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=omk44&label=Profile%20views&color=0e75b6&style=flat" alt="omk44" />
+  <img src="https://leetcode-stats-api.herokuapp.com/omk44" alt="LeetCode Stats" height="180" />
 </p>
+
 
 ---
 
@@ -72,17 +82,17 @@ I enjoy solving complex algorithmic challenges and have solved **500+ problems**
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Programming Language Distribution
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omk44&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omk44&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omk44&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
 ## 🤝 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/om-kapadiya-58423b287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om-kapadiya-58423b287" height="30" width="40" /></a>
-<a href="https://twitter.com/omkapadiya4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-lite.svg" alt="omkapadiya4" height="30" width="40" /></a>
+
 <a href="mailto:omkapadiya34@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" /></a>
 </p>
