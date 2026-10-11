@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 380" width="1000" height="380"><defs><linearGradient id="tx" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs><rect width="1000" height="380" rx="16" fill="#0b1020"/>
+<text x="24" y="36" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="15" fill="#e2e8f0">skills<tspan fill="#64748b"> // live profile</tspan></text>
+<polygon points="230,160 256,175 256,205 230,220 204,205 204,175" fill="none" stroke="#334155" stroke-opacity=".6"/>
+<polygon points="230,130 282,160 282,220 230,250 178,220 178,160" fill="none" stroke="#334155" stroke-opacity=".6"/>
+<polygon points="230,100 308,145 308,235 230,280 152,235 152,145" fill="none" stroke="#334155" stroke-opacity=".6"/>
+<polygon points="230,70 334,130 334,250 230,310 126,250 126,130" fill="none" stroke="#334155" stroke-opacity=".6"/>
+<line x1="230" y1="190" x2="230" y2="70" stroke="#334155" stroke-opacity=".6"/><text x="230" y="52" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#94a3b8">Backend</text>
+<line x1="230" y1="190" x2="334" y2="130" stroke="#334155" stroke-opacity=".6"/><text x="353" y="123" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#94a3b8">Frontend</text>
+<line x1="230" y1="190" x2="334" y2="250" stroke="#334155" stroke-opacity=".6"/><text x="353" y="265" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#94a3b8">Security</text>
+<line x1="230" y1="190" x2="230" y2="310" stroke="#334155" stroke-opacity=".6"/><text x="230" y="336" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#94a3b8">ML</text>
+<line x1="230" y1="190" x2="126" y2="250" stroke="#334155" stroke-opacity=".6"/><text x="107" y="265" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#94a3b8">DSA</text>
+<line x1="230" y1="190" x2="126" y2="130" stroke="#334155" stroke-opacity=".6"/><text x="107" y="123" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#94a3b8">DevOps</text>
+<polygon points="230,82 318,139 321,243 230,280 145,239 157,148" fill="#22d3ee" fill-opacity=".22" stroke="url(#tx)" stroke-width="2.5"><animate attributeName="points" values="230,184 235,187 235,193 230,196 225,193 225,187;230,82 318,139 321,243 230,280 145,239 157,148;230,75 325,135 328,246 230,287 139,243 151,144;230,82 318,139 321,243 230,280 145,239 157,148" keyTimes="0;.2;.6;1" dur="6s" repeatCount="indefinite"/></polygon>
+<circle cx="230" cy="82" r="4" fill="#22d3ee"><animate attributeName="r" values="3;6;3" dur="2.5s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cx="318" cy="139" r="4" fill="#22d3ee"><animate attributeName="r" values="3;6;3" dur="2.5s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle cx="321" cy="243" r="4" fill="#22d3ee"><animate attributeName="r" values="3;6;3" dur="2.5s" begin="0.6s" repeatCount="indefinite"/></circle>
+<circle cx="230" cy="280" r="4" fill="#22d3ee"><animate attributeName="r" values="3;6;3" dur="2.5s" begin="0.9s" repeatCount="indefinite"/></circle>
+<circle cx="145" cy="239" r="4" fill="#22d3ee"><animate attributeName="r" values="3;6;3" dur="2.5s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="157" cy="148" r="4" fill="#22d3ee"><animate attributeName="r" values="3;6;3" dur="2.5s" begin="1.5s" repeatCount="indefinite"/></circle>
+<text x="520" y="90" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="13" fill="#e2e8f0">Python</text><text x="940" y="90" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#3b82f6">92%</text>
+<rect x="520" y="98" width="420" height="10" rx="5" fill="#1e293b"/>
+<rect x="520" y="98" width="0" height="10" rx="5" fill="#3b82f6"><animate attributeName="width" values="0;386;386;0" keyTimes="0;.25;.85;1" dur="7s" begin="0.00s" repeatCount="indefinite"/></rect>
+<text x="520" y="134" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="13" fill="#e2e8f0">JavaScript / React</text><text x="940" y="134" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#facc15">88%</text>
+<rect x="520" y="142" width="420" height="10" rx="5" fill="#1e293b"/>
+<rect x="520" y="142" width="0" height="10" rx="5" fill="#facc15"><animate attributeName="width" values="0;370;370;0" keyTimes="0;.25;.85;1" dur="7s" begin="0.25s" repeatCount="indefinite"/></rect>
+<text x="520" y="178" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="13" fill="#e2e8f0">C# / .NET</text><text x="940" y="178" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#a78bfa">80%</text>
+<rect x="520" y="186" width="420" height="10" rx="5" fill="#1e293b"/>
+<rect x="520" y="186" width="0" height="10" rx="5" fill="#a78bfa"><animate attributeName="width" values="0;336;336;0" keyTimes="0;.25;.85;1" dur="7s" begin="0.50s" repeatCount="indefinite"/></rect>
+<text x="520" y="222" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="13" fill="#e2e8f0">Java</text><text x="940" y="222" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#fb923c">70%</text>
+<rect x="520" y="230" width="420" height="10" rx="5" fill="#1e293b"/>
+<rect x="520" y="230" width="0" height="10" rx="5" fill="#fb923c"><animate attributeName="width" values="0;294;294;0" keyTimes="0;.25;.85;1" dur="7s" begin="0.75s" repeatCount="indefinite"/></rect>
+<text x="520" y="266" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="13" fill="#e2e8f0">C++ (CodeChef)</text><text x="940" y="266" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#22d3ee">78%</text>
+<rect x="520" y="274" width="420" height="10" rx="5" fill="#1e293b"/>
+<rect x="520" y="274" width="0" height="10" rx="5" fill="#22d3ee"><animate attributeName="width" values="0;328;328;0" keyTimes="0;.25;.85;1" dur="7s" begin="1.00s" repeatCount="indefinite"/></rect>
+<text x="520" y="310" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="13" fill="#e2e8f0">Django · Node · Docker</text><text x="940" y="310" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#34d399">85%</text>
+<rect x="520" y="318" width="420" height="10" rx="5" fill="#1e293b"/>
+<rect x="520" y="318" width="0" height="10" rx="5" fill="#34d399"><animate attributeName="width" values="0;357;357;0" keyTimes="0;.25;.85;1" dur="7s" begin="1.25s" repeatCount="indefinite"/></rect>
+</svg>
